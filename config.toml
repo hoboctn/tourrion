@@ -1,4 +1,4 @@
-baseURL = "https://hoboctn.github.io/tourrion"
+baseURL = "https://hoboctn.github.io/"
 languageCode = "en-us"
 title = "Cheka Aisya's notes"
 theme= "toha"
